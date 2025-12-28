@@ -1,2 +1,3 @@
 # Ignore config directory
 config/
+.ipynb_checkpoints/
